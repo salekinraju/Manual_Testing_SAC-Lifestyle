@@ -1,0 +1,3 @@
+# Manual_Testing_SAC-Lifestyle
+This Repository contains a Manual Testing project on S.A.C Lifestyle.
+To be continued......
